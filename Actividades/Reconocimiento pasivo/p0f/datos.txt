@@ -1,0 +1,5 @@
+[2025/07/16 21:44:11] mod=syn|cli=10.10.60.130/45334|srv=162.241.61.49/443|subj=cli|os=Linux 2.2.x-3.x|dist=0|params=generic|raw_sig=4:64+0:0:1460:mss*44,7:mss,sok,ts,nop,ws:df,id+:0
+[2025/07/16 21:44:11] mod=mtu|cli=10.10.60.130/45334|srv=162.241.61.49/443|subj=cli|link=Ethernet or modem|raw_mtu=1500
+[2025/07/16 21:44:11] mod=syn+ack|cli=10.10.60.130/45334|srv=162.241.61.49/443|subj=srv|os=???|dist=12|params=none|raw_sig=4:52+12:0:1360:mss*48,7:mss,sok,ts,nop,ws:df:0
+[2025/07/16 21:44:11] mod=mtu|cli=10.10.60.130/45334|srv=162.241.61.49/443|subj=srv|link=generic tunnel or VPN|raw_mtu=1400
+[2025/07/16 21:44:11] mod=uptime|cli=10.10.60.130/45334|srv=162.241.61.49/443|subj=cli|uptime=1 days 22 hrs 33 min (modulo 49 days)|raw_freq=1000.00 Hz

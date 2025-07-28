@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Sun Jul 27 20:02:46 2025 as: /usr/lib/nmap/nmap -sS -sV -p1-4000 -T4 -oN scan_10.10.0.91_20250727_200244/nmap_result.txt 10.10.0.91
+Nmap scan report for 10.10.0.91
+Host is up (0.00024s latency).
+All 4000 scanned ports on 10.10.0.91 are in ignored states.
+Not shown: 4000 closed tcp ports (reset)
+MAC Address: AC:BC:32:8E:8C:5D (Apple)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jul 27 20:02:47 2025 -- 1 IP address (1 host up) scanned in 1.22 seconds
